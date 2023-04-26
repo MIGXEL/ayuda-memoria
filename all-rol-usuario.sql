@@ -26,3 +26,7 @@ INSERT INTO C376930_appoderado_4191.usuarios (nombre, apellidos, sexo, rut, mail
 INSERT INTO C376930_appoderado_4171.usuarios (nombre, apellidos, sexo, rut, mail, telefono, usuario, password, id_rol, cargo, planta, contrata, honorario, sep, pie, fecha_nacimiento, pass_laravel, change_pass, fecha_nac, conected, ultima_lectura, sup_admin, num_reg) VALUES('felipe ignacio', 'carrasco lecerf', 2, '185180263', 'felipe.carrasco@cloud.uautonoma.cl', '956609385', '185180263', 'hanamichi10', '1,2,3,5,6,9,11,12,14,15,16,17,19,20,21,22,23,24,25,26,27,28,29,30', '', 0, 0, 0, 0, 0, '1994-03-15', '$2y$11$CJnhxTFhg5tNZ6BBp71F1emXfbbZaKICkSVV96J.5ZrG5OW.zwy6O', 1, '0000-00-00', 1, '2023-01-09 19:57:50', 0, '');
 
 -- Los datos mostrados son solo de ejemplos, agregar datos segun corresponda.
+
+7733,7734,7735,7736,7737,7738,7739,7740,7751,7743,7752,7744,7756,7755,7753,7745,7757,7754,7746,7741,7747,7742,7731,7748,7732,7749,7750
+
+7193,7194,7195,7196,7197,7198,7199,7200,7211,7203,7212,7204,7205,7213,7206,7201,7214,7207,7202,7215,7216,7208,7209,7210
